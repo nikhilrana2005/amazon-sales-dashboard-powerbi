@@ -1,5 +1,3 @@
-Bilkul Nikhil! Neeche ek **professional GitHub README.md** diya hai jo recruiters aur hiring managers ko impress karega. Isse tum directly apni repository ke `README.md` mein paste kar sakte ho.
-
 ````markdown
 # 📊 Amazon Sales Dashboard | Power BI Portfolio Project
 
